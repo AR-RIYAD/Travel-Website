@@ -19,7 +19,6 @@ a{
 }
 p,li{
     font-size: 1.6rem;
-    margin-bottom: 0.5em;
 }
 h1,h2,h3{
     margin-bottom: 0.5em;
@@ -395,4 +394,8 @@ h1,h2,h3{
 }
 .cnt1{
     padding-top: 1.5rem;
+}
+
+.copyright {
+    padding: 1rem;
 }
